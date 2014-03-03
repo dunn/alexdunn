@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>THE BUFFALO IS BORN</title>
+
+<meta name="viewport" content="width=device-width" />
+<meta name="description" content="The lair of the beast" />
+<meta name="author" content="A buffalo" />
+<meta name="keywords" content="buffalo, buffalo, buffalo, buffalo, buffalo" />
+
+<link href="stylesheets/screen.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="stylesheets/print.css" rel="stylesheet" type="text/css" media="print" />
+<!--[if lt IE 9]>
+    <script src="scripts/html5shiv-printshiv.js"></script>
+<![endif]-->
+</head>
+<body>
+
+<header role="banner">
+<hgroup>
+<h1>THE BUFFALO IS BORN</h1>
+<h2>look upon it and despair.</h2>
+</hgroup>
+</header>
+

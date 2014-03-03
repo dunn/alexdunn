@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>THE BUFFALO IS BORN</title>
+
+<meta name="viewport" content="width=device-width" />
+<meta name="description" content="Where the wild buffalo are" />
+<meta name="keywords" content="buffalo, buffalo, buffalo, buffalo, buffalo" />
+
+<link href="stylesheets/screen.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="stylesheets/print.css" rel="stylesheet" type="text/css" media="print" />
+<!--[if lt IE 9]>
+    <script src="scripts/html5shiv-printshiv.js"></script>
+<![endif]-->
+</head>
+<body>
+
+$if(title)$
+<header role="banner">
+<h1>$title$</h1>
+</header>
+$endif$
+
+<article role="article">
+$body$
+<footer><p>
+$if(date)$
+Posted (author) $  <time datetime="$date$">$date$</time>.
+$endif$
+<a title="Main page" href="index.html">Go to the main page</a></p></footer>
+</article>
+
+</body>
+</html>
