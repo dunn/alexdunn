@@ -1,1 +1,83 @@
-body{margin:0 auto;width:50%;font-size:140%;text-align:center;font-family:"Bitter"}h1+h2{margin-top:-.75em}article{text-align:left}article+article{padding-top:1em;border-top:0.2em solid #9c9c9c}p{text-align:justify}footer{font-style:italic}@media screen and (max-width: 58em){body{width:75%;font-size:120%}}@media screen and (max-width: 40em){body{width:95%;font-size:100%}}
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic);
+/* ================================ */
+/* GLOBAL STYLES
+/* ================================ */
+/* line 24, ../sass/screen.scss */
+body {
+  margin: 0 auto;
+  width: 50%;
+  background-color: #47618e;
+  color: #ebf4ff;
+  font-size: 140%;
+  text-align: center;
+  font-family: "Source Sans Pro";
+}
+
+/* line 36, ../sass/screen.scss */
+a {
+  color: #ffc3ca;
+}
+/* line 40, ../sass/screen.scss */
+a:hover, a:active, a:visited {
+  color: #ffdee1;
+}
+
+/* ===========================
+/* HEADER
+/* ======================== */
+/* line 49, ../sass/screen.scss */
+body > header {
+  border-bottom: 0.8em solid #a5b9cc;
+}
+
+/* line 53, ../sass/screen.scss */
+h1 + h2 {
+  margin-top: -.75em;
+}
+
+/* ===========================
+/* ARTICLES
+/* ======================== */
+/* line 61, ../sass/screen.scss */
+article {
+  text-align: left;
+}
+
+/* line 65, ../sass/screen.scss */
+article + article {
+  padding-top: 1em;
+  border-top: 0.2em solid #a5b9cc;
+}
+
+/* line 70, ../sass/screen.scss */
+p {
+  text-align: justify;
+}
+
+/* ===========================
+/* FOOTER
+/* ======================== */
+/* line 78, ../sass/screen.scss */
+footer {
+  font-style: italic;
+}
+
+/* line 82, ../sass/screen.scss */
+body > footer {
+  border-top: 0.8em solid #a5b9cc;
+}
+
+@media screen and (max-width: 58em) {
+  /* line 87, ../sass/screen.scss */
+  body {
+    width: 75%;
+    font-size: 120%;
+  }
+}
+@media screen and (max-width: 40em) {
+  /* line 94, ../sass/screen.scss */
+  body {
+    width: 95%;
+    font-size: 100%;
+  }
+}

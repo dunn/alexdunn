@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Archive</title>
+  <title>Archive — alexdunn.info</title>
 
   <meta name="viewport" content="width=device-width" />
-  <meta name="description" content="an archive idk" />
-  <meta name="keywords" content="archive" />
+  <meta name="description" content="Alex Dunn is a PhD student at UCSB" />
+  <meta name="author" content="Alex Dunn" />
 
   <link href="stylesheets/screen.css" rel="stylesheet" type="text/css" media="screen" />
   <link href="stylesheets/print.css" rel="stylesheet" type="text/css" media="print" />
@@ -19,7 +19,6 @@
 <header role="banner">
 <hgroup>
 <h1>Archive</h1>
-<h2>This is an archive.</h2>
 </hgroup>
 </header>
 
