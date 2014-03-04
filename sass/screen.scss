@@ -32,18 +32,14 @@ body {
   font-family: "Source Sans Pro";
 }
 
-  a {
-    color: $anchor;
-    &:hover,
-    &:active,
-    &:visited {
-      color: $visited;
-    }
+a {
+  color: $anchor;
+  &:hover,
+  &:active,
+  &:visited {
+    color: $visited;
   }
-
-/* ===========================
-/* HEADER
-/* ======================== */
+}
 
 body > header {
   border-bottom: (4*$box-border) solid $barrier;
@@ -52,10 +48,6 @@ body > header {
 h1 + h2 {
   margin-top: -.75em;
 }
-
-/* ===========================
-/* ARTICLES
-/* ======================== */
 
 article {
   text-align: left;
@@ -69,6 +61,21 @@ article + article {
 p {
   text-align: justify;
 }
+
+ul.top,
+li.top {
+  /* http://www.alistapart.com/articles/taminglists/ */
+  display: inline;
+  margin: 0;
+  padding-left: 0;
+}
+
+li.after {
+  &::before {
+    content: "| ";
+  }
+}
+
 
 /* ===========================
 /* FOOTER

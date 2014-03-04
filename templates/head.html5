@@ -20,11 +20,20 @@
 <header role="banner">
 <hgroup>
 <h1>Alex Dunn</h1>
-<h2><script type="text/javascript">
+<h2>
+
+<ul class="top">
+<li class="top"><script type="text/javascript">
 <!--
 h='&#x75;&#x6d;&#x61;&#x69;&#108;&#46;&#x75;&#x63;&#x73;&#98;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x61;&#100;&#x75;&#110;&#110;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
 // -->
-</script><noscript>&#x61;&#100;&#x75;&#110;&#110;&#32;&#x61;&#116;&#32;&#x75;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x75;&#x63;&#x73;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript> | <a href="docs/cv.html">CV</a> | <a href="http://pastebin.com/raw.php?i=CgtqpXYt" title="Pastebin">Public key</a></h2>
+</script><noscript>&#x61;&#100;&#x75;&#110;&#110;&#32;&#x61;&#116;&#32;&#x75;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x75;&#x63;&#x73;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript>
+</li>
+<li class="top after"><a href="docs/cv.html">CV</a></li>
+<li class="top after"><a href="http://pastebin.com/raw.php?i=CgtqpXYt" title="Pastebin">Public key</a></li>
+</ul>
+
+</h2>
 </hgroup>
 </header>
