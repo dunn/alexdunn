@@ -1,104 +1,353 @@
+@charset "UTF-8";
 @import "base";
 
-// COLORS
-$background: #47618e;
-$text: #ebf4ff;
-$anchor: #ffc3ca;
-$visited: #ffdee1;
-$barrier: #a5b9cc;
-//$barrier: #cfe7ff;
+// ==============
+// Colors
+// ==============
+// http://revoltpuppy.com/articles/40
+$dark: #313832;
+$light: mix(white,#dae6e6,50%);
+$main: #5ccde4;
+$offset: #e4c75c;
+$splash: #e45cb1;
+
+$background: $light;
+$text: mix($dark,$main,85%);
+$anchor: mix($dark,$offset,35%);
+$hover: mix($dark,$splash,15%);
+// $visited: mix($dark,$offset,5%);
+$inverse: mix($dark,$main,60%);
 
 // ==============
-// DIMENSIONS
+// Measurements
 // ==============
 $box-border: .2em;
 //
-$break1-width: 58em;
-$break2-width: 40em;
+$break1-width: 900px;
+$break2-width: 500px;
 
-
-/* ================================ */
-/* GLOBAL STYLES
-/* ================================ */
+// ==============
+// Colors
+// ==============
 body {
-  margin: 0 auto;
-  width: 50%;
-
-  background-color: $background;
   color: $text;
-
-  font-size: 140%;
-  text-align: center;
-  font-family: "Source Sans Pro";
+  background-color: $background;
 }
 
 a {
   color: $anchor;
   &:hover,
-  &:active,
-  &:visited {
-    color: $visited;
+  &:active {
+    color: $hover;
   }
 }
 
-body > header {
-  border-bottom: (4*$box-border) solid $barrier;
+main {
+  a {
+    color: $hover;
+    &:hover,
+    &:active {
+      color: $anchor;
+    }
+  }
 }
 
-h1 + h2 {
-  margin-top: -.75em;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $inverse;
 }
 
-article {
-  text-align: left;
+hr {
+  color: mix($light,$main,80%);
+  background-color: mix($light,$main,80%);
 }
 
 article + article {
-  padding-top: 1em;
-  border-top: $box-border solid $barrier;
+  border-top: $box-border solid mix($light,$main,80%);
 }
 
-p {
-  text-align: justify;
+.headline a {
+  color: $inverse;
+  text-decoration: none;
+  &:hover,
+  &:active {
+    color: mix($dark,$splash,25%);
+  }
+}
+li.after {
+  &::before {
+    color: mix($dark,$splash,30%);
+  }
+}
+
+.resources {
+  a {
+    color: mix($light,$splash,30%);
+    &:hover,
+    &:active {
+      color: mix($dark,$offset,5%);
+    }
+  }
+}
+.resources::before {
+  color: mix($light,$offset,10%);
+}
+
+section.quicklinks {
+  color: $background;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $background;
+  }
+  background-color: $inverse;
+}
+
+.courses-list a {
+  color: mix($light,$offset,10%);
+  &:hover,
+  &:active {
+    color: mix($light,$splash,20%);
+  }
+}
+
+.page-footer {
+  color: $background;
+  background-color: $inverse;
+  a {
+    color: mix($light,$offset,10%);
+      &:hover,
+      &:active {
+        color: mix($light,$splash,20%);
+      }
+  }
+}
+
+footer.single {
+  color: mix($dark,$main,60%);
+}
+
+/* ================================ */
+/* General
+/* ================================ */
+body {
+  margin: 0 auto;
+  width: 100%;
+
+  font-size: 16pt;
+
+  text-align: center;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 225%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+h4 {
+  font-size: 131.25%;
+}
+
+h5,
+h6 {
+  font-size: 112.5%;
+}
+
+section {
+  text-align: left;
+}
+
+hr {
+  height: $box-border;
+  width: 50%;
+  border: 0;
+}
+
+/* ===========================
+/* Classes
+/* ======================== */
+
+.page-header {
+  padding-bottom: 1em;
+
+  border-bottom: (4*$box-border) solid $inverse;
+  h1 {
+    margin-bottom: -.125em;
+  }
+}
+.page-footer {
+  border: (4*$box-border) solid $inverse;
+  clear: both;
+}
+
+section.quicklinks {
+  float: left;
+  width: 35%;
+
+  padding-left: 2em;
+  padding-right: 1.5em;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+
+  @include border-bottom-right-radius(2em);
+}
+
+.resources::before {
+  content: "➲ ";
+}
+
+section.primary {
+  float: right;
+  width: 65%;
+
+  padding-left: 2em;
+  padding-right: 3em;
+  margin-bottom: 1em;
 }
 
 ul.top,
 li.top {
   /* http://www.alistapart.com/articles/taminglists/ */
   display: inline;
-  margin: 0;
   padding-left: 0;
 }
 
 li.after {
   &::before {
-    content: "| ";
+    content: "✿ ";
   }
 }
 
+ul.courses-list {
+  list-style-type: none;
+  list-style-position: outside;
+
+  margin-top: -1em;
+  margin-left: 1em;
+  text-indent: -2.5em;
+}
+
+ul.courses-archive li {
+  list-style: none;
+}
+
+.courses-archive p,
+.project-header {
+  &::before {
+    content: "⊨ ";
+  }
+}
+
+section.single {
+  padding-right: 20%;
+  padding-left: 20%;
+  padding-bottom: 1em;
+}
 
 /* ===========================
-/* FOOTER
+/* Media Queries
 /* ======================== */
-
-footer {
-  font-style: italic;
-}
-
-body > footer {
-  border-top: (4*$box-border) solid $barrier;
-}
 
 @media screen and (max-width: $break1-width) {
   body {
-    width: 75%;
-    font-size: 120%;
+    font-size: 14pt;
+  }
+  h1 {
+    font-size: 225%;
+  }
+  h2 {
+    font-size: 150%;
+  }
+  h3 {
+    font-size: 131.25%;
+  }
+  h4,
+  h5,
+  h6 {
+    font-size: 112.5%;
+  }
+
+  .page-header {
+    padding-bottom: 1em;
+    border-bottom: (3*$box-border) solid $inverse;
+  }
+  .page-footer {
+    border-top: (3*$box-border) solid $inverse;
+  }
+
+  section.quicklinks {
+    float: none;
+    width: 100%;
+
+    border: $box-border solid $inverse;
+    @include border-bottom-right-radius(0);
+  }
+
+  section.primary {
+    float: none;
+    width: 100%;
+
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  section.single {
+    padding-right: 10%;
+    padding-left: 10%;
   }
 }
 
 @media screen and (max-width: $break2-width) {
   body {
-    width: 95%;
-    font-size: 100%;
+    font-size: 12pt;
+  }
+  h1 {
+    font-size: 171.5%;
+  }
+  h2 {
+    font-size: 150%;
+  }
+  h3 {
+    font-size: 128.5%;
+  }
+  h4,
+  h5,
+  h6 {
+    font-size: 114.3%;
+  }
+
+  .page-header {
+    border-bottom: (2*$box-border) solid $inverse;
+  }
+  .page-footer {
+    border-top: (2*$box-border) solid $inverse;
+  }
+
+  section.quicklinks {
+    margin-bottom: 2em;
+
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+  }
+
+  section.primary,
+  section.single {
+    padding-right: 3%;
+    padding-left: 3%;
   }
 }

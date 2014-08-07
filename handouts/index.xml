@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Handouts on Alex Dunn </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://alexdunn.info/handouts/index.xml</link>
+    
+    
+    
+    <updated>Wed, 30 Apr 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Skepticism and common sense</title>
+      <link>http://alexdunn.info/handouts/moore</link>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/moore</guid>
+      <description>&lt;p&gt;Last week we talked about how one person&amp;rsquo;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;rsquo;s
+&lt;em&gt;modus tollens&lt;/em&gt;.  If you&amp;rsquo;re given any argument of the form&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If &lt;em&gt;P,&lt;/em&gt; then &lt;em&gt;Q&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;P&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Q&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;there is another argument of the form&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If &lt;em&gt;P,&lt;/em&gt; then &lt;em&gt;Q&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Not &lt;em&gt;Q&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Not &lt;em&gt;P&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Both arguments are valid.  Which of the two arguments is &lt;em&gt;sound&lt;/em&gt; (if
+either are) depends on what &lt;em&gt;P&lt;/em&gt; and &lt;em&gt;Q&lt;/em&gt; are.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This week we&amp;rsquo;ve got another example of how an argument can be
+reversed.  The simplest way to express the skeptical argument about
+the external world is like this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If I know I have hands, then I know there&amp;rsquo;s an external world.&lt;/li&gt;
+&lt;li&gt;I do not know that there&amp;rsquo;s an external world.&lt;/li&gt;
+&lt;li&gt;I do not know that I have hands.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The skeptic uses &lt;em&gt;modus tollens&lt;/em&gt; to conclude that you actually don&amp;rsquo;t
+know even basic things like that you have hands!&lt;/p&gt;
+
+&lt;p&gt;But the skeptic&amp;rsquo;s &lt;em&gt;modus tollens&lt;/em&gt; is G.E. Moore&amp;rsquo;s &lt;em&gt;modus ponens&lt;/em&gt;.  He
+responds with this argument:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If I know I have hands, then I know there&amp;rsquo;s an external world.&lt;/li&gt;
+&lt;li&gt;I know I have hands.&lt;/li&gt;
+&lt;li&gt;I know there&amp;rsquo;s an external world.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Remember, both the skeptic and Moore have valid arguments.  They both
+reason correctly from their premises.  But who has better premises?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One person&amp;#8217;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;#8217;s &lt;em&gt;modus tollens&lt;/em&gt;</title>
+      <link>http://alexdunn.info/handouts/modus</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/modus</guid>
+      <description>&lt;p&gt;William Rowe pointed out that you can take his argument against the
+existence of God and basically reverse it:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Unjustified evil exists (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If God existed, then no unjustified evil would exist (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, God does not exist (&lt;em&gt;follows from 1 and 2 by&lt;/em&gt; modus tollens).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To reverse this argument, we have to begin with different premises.
+Instead of assuming that unjustified evil exists, we assume that God
+exists:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;God exists (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If God exists, then no unjustified evil would exist (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, no unjustified evils exist (&lt;em&gt;follows from 1 and 2 by&lt;/em&gt;
+modus ponens).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We kept the conditional &lt;em&gt;if God exists, then no unjustified evil would
+exist,&lt;/em&gt; but used it to make a different inference.  Rowe&amp;rsquo;s argument
+used premise 2 to make a &lt;em&gt;modus tollens&lt;/em&gt; inference, from the existence
+of unjustified evil to the non-existence of God.  The theist&amp;rsquo;s
+argument uses the very same premise 2 to make a &lt;em&gt;modus ponens&lt;/em&gt;
+inference, from the existence of God to the non-existence of
+unjustified evil.&lt;/p&gt;
+
+&lt;p&gt;In a situation like this, both sides are using valid arguments to draw
+contrary conclusions.  The only thing to do is decide who has the more
+plausible &lt;em&gt;premises&lt;/em&gt;.  Is is more likely that unjustified evil exists,
+or that God exists?  There&amp;rsquo;s going to be a lot of disagreement; it&amp;rsquo;s
+not obvious which direction&amp;mdash;&lt;em&gt;modus ponens&lt;/em&gt; or &lt;em&gt;modus tollens&lt;/em&gt;&amp;mdash;is
+more justified.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;But there are other cases like this in which it&amp;rsquo;s more clear which is
+the right direction.  Remember Norcross&amp;rsquo; argument against supporting
+factory farms:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If it is wrong to torture puppies for gustatory pleasure, then it
+is wrong to support factory farming (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It is wrong to torture puppies for gustatory pleasure (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, it is wrong to support factory farming (&lt;em&gt;follows from 1
+and 2 by&lt;/em&gt; modus ponens).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Norcross showed how someone might reverse this argument:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If it is wrong to torture puppies for gustatory pleasure, then it
+is wrong to support factory farming (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It is not wrong to support factory farming (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, it is not wrong to torture puppies (&lt;em&gt;follows from 1 and
+2 by&lt;/em&gt; modus tollens).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here we have the same sort of stalemate: both sides have a valid
+argument for their preferred conclusion.  So we have to step back
+again and decide who has the more plausible set of premises.  They
+both agree on the conditional premise that &lt;em&gt;if it is wrong to torture
+puppies for gustatory pleasure, then it is wrong to support factory
+farming&lt;/em&gt;.  But Norcross takes it as a premise that it is wrong to
+torture puppies, while his hypothetical opponent takes it as a premise
+that it is &lt;em&gt;not&lt;/em&gt; wrong to support factory farming.  Which of &lt;em&gt;these&lt;/em&gt;
+premises is more likely to be true?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Peter Singer presents this argument (the way I&amp;rsquo;ve written it down
+should make it more clear that it&amp;rsquo;s valid):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If it is in our power to prevent something bad from happening,
+without thereby sacrificing anything of comparable moral
+importance, we ought, morally, to do it (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suffering and death from lack of food, shelter, and medical care
+are bad (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If it is in our power to prevent suffering and death from lack of
+food, shelter, and medical care from happening, without thereby
+sacrificing anything of comparable moral importance, we ought,
+morally, to do it (&lt;em&gt;follows from premises 1 and 2 by
+substitution&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It is in our power to prevent suffering and death from lack of
+food, shelter, and medical care from happening, without thereby
+sacrificing anything of comparable moral importance (&lt;em&gt;premise&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We ought, morally, to prevent suffering and death from lack of
+food, shelter, and medical care from happening (&lt;em&gt;follows from
+3 and 4 by&lt;/em&gt; modus ponens).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Singer&amp;rsquo;s conclusion is very demanding; if it&amp;rsquo;s true, then we are all
+failing to do our duty.  We are falling short as moral agents.&lt;/p&gt;
+
+&lt;p&gt;But maybe Singer&amp;rsquo;s conclusion isn&amp;rsquo;t true.  Maybe we can perform a
+similar reversal on his argument.  Suppose we take it as a premise
+that we&amp;rsquo;re not always required to prevent suffering and death around
+the world.  Maybe we are sometimes, in some places, but let&amp;rsquo;s take as
+a premise that it&amp;rsquo;s not &lt;em&gt;universally&lt;/em&gt; required, which is what Peter
+Singer thinks.&lt;/p&gt;
+
+&lt;p&gt;Now since we&amp;rsquo;re denying the conclusion of a valid argument, we have to
+deny one of the argument&amp;rsquo;s premises.  Which one might be false?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Prometheus Problem</title>
+      <link>http://alexdunn.info/handouts/prometheus</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/prometheus</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s Paley&amp;rsquo;s argument, direct from Tim&amp;rsquo;s slides:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Watches have complex features the best explanation of which is that
+the watch was created by an intelligent designer for some purpose.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Living organisms are similar to watches in these respects.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, the best explanation of the complexities that we find in
+living organisms is that living organisms were created by an
+intelligent designer for some purpose.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Richard Dawkins makes some good points in his discussion of this
+argument.  Again, from Tim&amp;rsquo;s slides:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;em&gt;best&lt;/em&gt; kinds of explanations of complex phenomena explaining the
+complexity in terms of &lt;em&gt;simpler&lt;/em&gt; phenomena.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Therefore,&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Design explanations of complex phenomena should be a theoretic last
+resort, at least in the absence of direct evidence of design
+(e.g. you watch someone make a watch).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;With this in mind, when we look back at the first premise of Paley&amp;rsquo;s
+argument, we realize that one of the watch&amp;rsquo;s &amp;ldquo;features&amp;rdquo; that makes a
+designer part of the best explanation for the watch is the feature of
+&lt;em&gt;having been observed to be designed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If we had never seen a watch being made&amp;mdash;or had not been told by a
+trustworthy person that watches are designed and made by humans, the
+best explanation might &lt;em&gt;not&lt;/em&gt; be an intelligent designer.  Because, &lt;em&gt;in
+general,&lt;/em&gt; the best explanations of complex things don&amp;rsquo;t require
+something even more complicated.  A human watchmaker is more
+complicated than a watch, so if we didn&amp;rsquo;t already &lt;em&gt;know&lt;/em&gt; that
+watchmakers exist the best explanation of a watch would not require a
+watchmaker.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;OK, but how does this relate to God?  Dawkins thinks that we are like
+watches who do &lt;em&gt;not&lt;/em&gt; know that there is a watchmaker.  We have not
+ourselves seen God, and&amp;mdash;according to Dawkins&amp;mdash;we do not have the
+same amount of evidence for God&amp;rsquo;s existence as we do for a human
+watchmaker&amp;rsquo;s existence.  Even if you&amp;rsquo;ve never seen a human watchmaker,
+you&amp;rsquo;ve got lots of evidence that they exist.  That&amp;rsquo;s why, when you see
+a watch, you&amp;rsquo;re right to assume that it was made by a watchmaker.&lt;/p&gt;
+
+&lt;p&gt;Dawkins thinks we don&amp;rsquo;t have as much evidence for God&amp;rsquo;s existence, so
+we&amp;rsquo;re &lt;em&gt;not&lt;/em&gt; right to assume that we were made by God.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an objection to Dawkins.  His argument makes two assumptions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;God is more complex than we are, just as the watchmaker is more
+complex than the watch.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The existence of God requires explanation.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But are either of these assumptions true?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is psychological continuity what matters for personal identity?</title>
+      <link>http://alexdunn.info/handouts/locke</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/locke</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Definitions&lt;/h3&gt;
+
+&lt;p&gt;If you accept the &lt;em&gt;Revised&lt;/em&gt; Lockean Theory of personal identity, this
+is what you mean by &amp;ldquo;psychological continuity&amp;rdquo;:&lt;/p&gt;
+
+&lt;p&gt;Psychological continuity
+:   Person-stages &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; are psychologically continuous just in
+    case (1) &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; have very similar mental &amp;ldquo;profiles&amp;rdquo;, and (2)
+    that similarity is due to a reliable causal connection.&lt;/p&gt;
+
+&lt;p&gt;(Notice that psychological continuity in this sense is not &lt;em&gt;transitive&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;p&gt;You can then say that what matters for personal identity is this sort
+of continuity:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Person-stages &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; are co-personal if and only if (1) &lt;em&gt;A&lt;/em&gt; and
+&lt;em&gt;B&lt;/em&gt; are psychologically continuous &lt;strong&gt;or&lt;/strong&gt; (2) &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; are
+connected by a chain of psychologically continuous person-stages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Because the sort of psychological continuity we&amp;rsquo;re using isn&amp;rsquo;t
+transitive, clause (1) by itself isn&amp;rsquo;t good enough.  The little boy
+and the old general are not psychologically continuous, so we need
+clause (2) to explain why they are nonetheless co-personal.  The old
+general is connected to the little boy by a chain of psychologically
+continuous person-stages (including the brave officer).&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Teleportation and Duplication&lt;/h3&gt;
+
+&lt;p&gt;But now teleportation and duplication are supposed to cause problems
+for this Revised Lockean Theory.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s suppose technology has advanced to the point where a machine can
+scan you and then build a perfect replica of you.  One way this
+technology might be put into use would be to provide extremely fast
+transportation.  You could be scanned in Santa Barbara and replicated
+in Los Angeles in the space of a few minutes.  Your old body would be
+discarded, and there you are, in Los Angeles.&lt;/p&gt;
+
+&lt;p&gt;Why is this sort of &lt;strong&gt;teleportation&lt;/strong&gt; supposed to cause a problem for
+our theory?  The intuition, which you may or may not share, is that
+it&amp;rsquo;s not &lt;em&gt;you&lt;/em&gt; in Los Angeles.  The intuition is that you were
+&lt;em&gt;killed&lt;/em&gt; after being scanned, and a person was &lt;em&gt;made&lt;/em&gt; in Los Angeles
+who happens to look and act just like you.  But our theory seems to
+say that, no, that&amp;rsquo;s really &lt;em&gt;you&lt;/em&gt; in Los Angeles.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The problems caused by &lt;strong&gt;duplication&lt;/strong&gt; are more obvious.  Suppose you
+are replicated in Los Angeles, but your &amp;ldquo;old&amp;rdquo; body is &lt;em&gt;not&lt;/em&gt;
+discarded.  Are there now two versions of you?  Is the Santa Barbara
+version of you the &amp;ldquo;real&amp;rdquo; you, because it&amp;rsquo;s older?&lt;/p&gt;
+
+&lt;p&gt;But what if you&amp;rsquo;re replicated in Los Angeles and San Diego and your
+old body &lt;em&gt;is&lt;/em&gt; discarded.  Neither of the two versions of you are older
+than the other; which one is you?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The Revised Lockean Theory could be revised &lt;em&gt;again&lt;/em&gt; to deal with
+duplication:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Person-stages &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; are co-personal if and only if (1) &lt;em&gt;A&lt;/em&gt; and
+&lt;em&gt;B&lt;/em&gt; are &lt;strong&gt;uniquely&lt;/strong&gt; psychologically continuous &lt;strong&gt;or&lt;/strong&gt; (2) &lt;em&gt;A&lt;/em&gt; and
+&lt;em&gt;B&lt;/em&gt; are connected by a chain of &lt;strong&gt;uniquely&lt;/strong&gt; psychologically
+continuous person-stages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Is this a satisfactory revision?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What’s the Dreaming Hypothesis, and why can’t we rule it out?</title>
+      <link>http://alexdunn.info/handouts/dreaming</link>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/dreaming</guid>
+      <description>
+
+&lt;p&gt;The second premise of the &lt;strong&gt;Dream Argument&lt;/strong&gt; is that “I am not in a
+position to eliminate (rule out) the Dreaming Hypothesis.”&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Dreaming Hypothesis&lt;/strong&gt; is just this: “perhaps you are now
+dreaming.”&lt;/p&gt;
+
+&lt;p&gt;Why should we accept the second premise of the Dream Argument? What
+reasons are there to think that we’re &lt;em&gt;not&lt;/em&gt; in a position to rule out
+the Dreaming Hypothesis?&lt;/p&gt;
+
+&lt;p&gt;We should first try to see if we actually &lt;em&gt;are&lt;/em&gt; in a position to rule
+out the Dreaming Hypothesis. If we can prove that we’re &lt;em&gt;not&lt;/em&gt; in a
+dream, then we &lt;em&gt;shouldn’t&lt;/em&gt; accept the second premise of the Dream
+Argument.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;How would we prove we’re not in a dream?&lt;/h3&gt;
+
+&lt;p&gt;To prove we’re not in a dream right now, we need to know that there’s
+something about our current experiences that couldn’t happen in a dream.
+If I know it’s &lt;em&gt;impossible&lt;/em&gt; that what’s happening right now could happen
+in a dream, then I know I’m not in a dream. &lt;em&gt;What’s happening right now
+has to pass the waking test&lt;/em&gt;: if I’m dreaming, then it’s (logically)
+impossible for my current experience to pass the test.&lt;/p&gt;
+
+&lt;p&gt;In other words,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an experience passes the waking test just in case it is (logically)
+impossible to be having that experience while dreaming.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;What would pass the waking test?&lt;/h3&gt;
+
+&lt;p&gt;A waking test is one that we will necessarily &lt;em&gt;fail&lt;/em&gt; if we are dreaming.&lt;/p&gt;
+
+&lt;p&gt;Let’s consider a possible test:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scientists discoverd that it’s impossible to see fine details while
+dreaming. Does this mean that if I look at my hands, and can make
+out the fine lines on my palms, I know I’m not dreaming?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not quite. It might be physically impossible to see the fine lines on
+your palms while dreaming, but it’s not &lt;em&gt;logically&lt;/em&gt; impossible. (Do you
+remember why?)&lt;/p&gt;
+
+&lt;p&gt;Why does an experience pass the waking test only if it’s logically
+impossible to have that experience while dreaming?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Suppose a scientist &lt;em&gt;dreams&lt;/em&gt; that he discovers that it’s impossible
+to see fine details while dreaming.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Maybe that’s going on right now! Can we rule &lt;em&gt;that&lt;/em&gt; out? I don’t think
+we can. You’ve probably dreamed about learning something—where you left
+your keys, maybe—that turned out to be false when you woke up. So maybe
+that’s what’s going on right now: this is all one big dream, and the
+scientists are part of the dream, and it’s only part of the dream that
+we can’t see fine details while dreaming.&lt;/p&gt;
+
+&lt;p&gt;But things are different if it’s logically impossible to have a certain
+experience while dreaming. Why?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Suppose a great mathematician proves, &lt;em&gt;in a dream&lt;/em&gt;, that 2 + 2 = 4.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now imagine he wakes up and writes down the proof in his dream journal.
+If he did each step of the proof correctly in his dream, the proof will
+be just as good when he wakes up. It won’t just be part of the dream.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The rules of logic are the same whether we’re dreaming or not.&lt;/strong&gt; So if
+it’s &lt;em&gt;logically impossible&lt;/em&gt; to be having a certain experience while
+dreaming, then it’s logically impossible whether we’re dreaming or not.
+We don’t have to worry about scenarios like the dreaming scientist,
+because logical truths that we discover while dreaming are true in the
+waking world.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Now the challenge is to discover one of these experiences that it’s
+logically impossible to have while dreaming. We haven’t been able to
+think of any so far. Can you?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Persons and Person-stages</title>
+      <link>http://alexdunn.info/handouts/identity</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/identity</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;What are person-stages and why should we care?&lt;/h3&gt;
+
+&lt;p&gt;The philosopher Ted Sider has a good explanation of what we&amp;rsquo;re talking
+about with &amp;ldquo;person-stages&amp;rdquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Think of your life as a long story. Let the story be a rather
+narcissistic story: cut out all details about everything else except
+you. So the story begins with an infant (or perhaps a fetus). It
+describes the infant developing into a child and then an
+adolescent. The adolescent passes into young adulthood, then
+adulthood, middle age, and finally old age and death. Like all
+stories, this story has parts. We can distinguish the part of the
+story concerning childhood from the part concerning adulthood. Given
+enough details, there will be parts concerning individual days,
+minutes, or even instants.&lt;/p&gt;
+
+&lt;p&gt;[There&amp;rsquo;s a sense in which] persons are a lot like their
+stories. Just as my story has a part for my childhood, so I have a
+part consisting just of my childhood. Just as my story has a part
+describing just this instant, so I have a part that is
+me-at-this-very-instant (from page 1 of his book
+&lt;em&gt;Four-Dimensionalism&lt;/em&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What he&amp;rsquo;s referring to with his talk of &amp;ldquo;parts&amp;rdquo; is what we&amp;rsquo;re
+referring to with our talk of &amp;ldquo;person-stages.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;(&amp;ldquo;Parts&amp;rdquo; might seem a lot more natural, but when we talk about the
+parts of a person we&amp;rsquo;re usually talking about their &lt;em&gt;spatial&lt;/em&gt;
+parts&amp;mdash;my legs, my arms, my head.  But right now we&amp;rsquo;re interested in
+&lt;em&gt;temporal&lt;/em&gt; parts&amp;mdash;my childhood, my teenage years, my 20s.
+&amp;ldquo;Person-stages&amp;rdquo; makes it clear that we&amp;rsquo;re not talking about legs and
+arms and heads.)&lt;/p&gt;
+
+&lt;p&gt;So the idea is that a person is a collection of person-stages.  We are
+the sum of our (temporal) parts.&lt;/p&gt;
+
+&lt;p&gt;Now, take any two random person-stages.  Either they&amp;rsquo;re part of the
+same &amp;ldquo;collection&amp;rdquo;, or they&amp;rsquo;re not.  Either they&amp;rsquo;re part of the same
+person or their not.  Either they&amp;rsquo;re &lt;em&gt;co-personal&lt;/em&gt; or they&amp;rsquo;re not.
+(Those are three ways of saying the same thing.)&lt;/p&gt;
+
+&lt;p&gt;Take my childhood and my 20s.  They&amp;rsquo;re part of the same person&amp;mdash;me.
+But &lt;em&gt;why?&lt;/em&gt; What &lt;em&gt;makes it true&lt;/em&gt; that a child in the 1990s and a
+20-something now are parts of the same story&amp;mdash;parts of the same
+&lt;em&gt;person?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;The Prince and the Cobbler&lt;/h3&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a more elaborate version of the story of the Prince and the
+Cobbler:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The cobbler is a revolutionary plotting with his sister to
+assassinate the king.  They have decided to attempt the
+assassination on Christmas Day.  On Christmas Eve, the cobbler goes
+to sleep in his small house, and the prince goes to sleep in his
+palace.  Each are watched over as they sleep: the cobbler&amp;rsquo;s sister
+was kept up by a tooth-ache and the royal family is guarded at all
+times.  None of the watchers notice anything out of the ordinary.&lt;/p&gt;
+
+&lt;p&gt;But the man who wakes up in the cobbler&amp;rsquo;s bed and sees the cobbler&amp;rsquo;s
+sister smiling down at him has no recollection of her.  Likewise,
+the man who wakes up in the prince&amp;rsquo;s bed, a butler standing at his
+bedside, cannot remember ever being inside a palace before.&lt;/p&gt;
+
+&lt;p&gt;The man in the cobbler&amp;rsquo;s bed runs out of the cobbler&amp;rsquo;s house, all
+the way to the gates of the prince&amp;rsquo;s palace.  The guards do not
+recognize the man before them, but he knows the secret password and
+so they let him in.&lt;/p&gt;
+
+&lt;p&gt;The man in the prince&amp;rsquo;s bed is terrified to be surrounded by palace
+guards, but also believes that this may be a perfect opportunity to
+commit the assassination he seems to remember planning with his
+sister.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In short, the body of the prince appears to have all the mental states
+of the cobbler, and the body of the cobbler appears to have all the
+mental states of the prince.  The &amp;ldquo;prince&amp;rdquo; &lt;em&gt;seems&lt;/em&gt; to remember
+plotting to kill the king.  The &amp;ldquo;cobbler&amp;rdquo; &lt;em&gt;seems&lt;/em&gt; to remember the
+password to enter the palace.&lt;/p&gt;
+
+&lt;p&gt;We can illustrate the situation like this:&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&#34;/img/person-slices.sm.jpg&#34; alt=&#34;The thin horizontal lines on top represent the non-mental portions of the princely person-stages. The thick horizontal lines on the bottom represent the non-mental portions of the cobbled person-stages. The diagonal lines represent the mental portions of the princely person-stages. The cross-hatching represents the mental portions of the cobbled person-stages.&#34; /&gt;&lt;figcaption&gt;&lt;em&gt;The thin horizontal lines on top represent the non-mental portions of the princely person-stages. The thick horizontal lines on the bottom represent the non-mental portions of the cobbled person-stages. The diagonal lines represent the mental portions of the princely person-stages. The cross-hatching represents the mental portions of the cobbled person-stages.&lt;/em&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Now, the question is, does personal identity follow non-mental bodily
+continuity (the horizontal lines) through time, or mental continuity
+(the diagonal and cross-hatched lines)?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zombies!</title>
+      <link>http://alexdunn.info/handouts/zombies</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/zombies</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;These zombies only eat brains if we do&lt;/h3&gt;
+
+&lt;p&gt;So a zombie is something that&amp;rsquo;s physically indistinguishable from a
+human but has no &lt;em&gt;mental states&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Other, maybe less precise ways of getting at this, would be to say
+that zombies are not &lt;em&gt;conscious&lt;/em&gt;, or that there&amp;rsquo;s &lt;em&gt;nothing going on up
+there.&lt;/em&gt; (Of course there are lots of physical things going on up
+there, but no consciousness.)&lt;/p&gt;
+
+&lt;p&gt;But even though zombies don&amp;rsquo;t have any mental states, they &lt;em&gt;act as if
+they do&lt;/em&gt;.  In the same sorts of situations where we would laugh, cry,
+and so on, they would laugh, cry, and so on.  But here&amp;rsquo;s the
+difference:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;When &lt;em&gt;we&lt;/em&gt; laugh, it&amp;rsquo;s because we&amp;rsquo;re happy or amused.  When &lt;em&gt;zombies&lt;/em&gt;
+laugh, it&amp;rsquo;s because they&amp;rsquo;re in a situation that would make a human
+happy, and because they&amp;rsquo;re built to laugh when they&amp;rsquo;re in a
+situation that would make a human happy.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;When &lt;em&gt;we&lt;/em&gt; cry, it&amp;rsquo;s because we&amp;rsquo;re sad.  When &lt;em&gt;zombies&lt;/em&gt; cry, it&amp;rsquo;s
+because they&amp;rsquo;re in a situation that would make a human sad, and
+because they&amp;rsquo;re built to cry when they&amp;rsquo;re in a situation that
+would make a human sad.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Zombies can also act &lt;em&gt;as if&lt;/em&gt; they remember things.  When &lt;em&gt;we&lt;/em&gt;
+remember, we&amp;rsquo;re retrieving information that&amp;rsquo;s stored &lt;em&gt;physically&lt;/em&gt; in
+the brain.  The zombie brain has this information too, so the zombie
+can utter things like &amp;ldquo;I remember sliding down that hill as a child&amp;rdquo;
+when they&amp;rsquo;re in a situation that would make a human remember sliding
+down that hill as a child.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;How could this be???&lt;/h3&gt;
+
+&lt;p&gt;Now the question is, are zombies even &lt;em&gt;possible?&lt;/em&gt;  You might think
+that they&amp;rsquo;re not.  You might think that&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;crying because you&amp;rsquo;re sad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;just &lt;em&gt;is&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;crying because you&amp;rsquo;re built to cry in the sort of situation you&amp;rsquo;re
+in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You might think those are just two ways of describing the same thing,
+and that there&amp;rsquo;s nothing &lt;em&gt;more&lt;/em&gt; to being sad than being in a certain
+physical state.  The argument might go something like this:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;We&amp;rsquo;re sad when and only when we&amp;rsquo;re in physical state &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Therefore, to be sad just &lt;em&gt;is&lt;/em&gt; to be in physical state &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since zombies are physically indistinguishable from us, and we are
+sometimes sad, zombies are sometimes in physical state &lt;em&gt;S&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;But since to be sad just &lt;em&gt;is&lt;/em&gt; to be in physical state &lt;em&gt;S&lt;/em&gt;, zombies
+are sometimes sad.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;But sadness is also a mental state, so zombies can (and sometimes
+do) have mental states.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We defined &amp;lsquo;zombie&amp;rsquo; as something that &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; have mental states.
+Since we&amp;rsquo;ve now arrived at the contradictory conclusion that zombies
+&lt;em&gt;do&lt;/em&gt; have mental states, our definition of &amp;lsquo;zombie&amp;rsquo; must have been
+&lt;em&gt;logically inconsistent&lt;/em&gt;&amp;mdash;it allowed us to derive the contradiction
+that zombies both do and do not have mental states.  &amp;ldquo;Zombies exist&amp;rdquo;
+is therefore &lt;em&gt;logically impossible&lt;/em&gt;, just as impossible as &amp;ldquo;Round
+squares exist.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;NOT SO FAST&lt;/h3&gt;
+
+&lt;p&gt;This is not a valid argument.&lt;/p&gt;
+
+&lt;p&gt;The weakest part of the argument is when we try to infer from (1) to
+(2).  Just because I&amp;rsquo;m sad in all and only those situations when I&amp;rsquo;m
+also in physical state &lt;em&gt;S&lt;/em&gt;, why does that mean being sad &lt;em&gt;just is&lt;/em&gt;
+being in physical state &lt;em&gt;S&lt;/em&gt;?  Suppose you could hypnotize a man or
+condition him to get angry when and only when he hears Garrison
+Keillor on the radio.  Would this mean that the man getting angry
+&lt;em&gt;just is&lt;/em&gt; the man hearing Garrison Keillor on the radio?&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s true that in this special case, hearing Garrison Keillor is a
+pretty important part of how this man gets angry, but &lt;em&gt;there&amp;rsquo;s more to
+it than that.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Likewise, being in physical state &lt;em&gt;S&lt;/em&gt; is a pretty important part of
+how and why we&amp;rsquo;re sad, but you might think that there&amp;rsquo;s more to it
+than that physical state.&lt;/p&gt;
+
+&lt;p&gt;(Or you might not.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Trademark Argument for the Existence of God</title>
+      <link>http://alexdunn.info/handouts/god</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/god</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Part 1: The No-Something-From-Nothing Principle&lt;/h3&gt;
+
+&lt;p&gt;Descartes claims that &amp;ldquo;there must be at least as much in the cause as
+in the effect of that cause.&amp;rdquo;  His examples in the third &lt;em&gt;Meditation&lt;/em&gt;
+include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;A stone cannot begin to exist unless it is produced by something
+which contains everything to be found in the stone.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Heat cannot be produced in an object except by something of at
+least the same degree or kind of perfection as heat.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These examples make some sense: to produce sedimentary rock, you need
+at least as much sediment as ends up in the rock; to produce heat, you
+need at least as much energy as corresponds to the heat produced.
+Otherwise you would be creating something from nothing, which
+Descartes thinks is impossible.&lt;/p&gt;
+
+&lt;p&gt;Now Descartes claims that this principle applies to ideas as well:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The ideas in me are like images which can easily fall short of the
+perfection of the things from which they are taken, but which cannot
+contain anything greater or more perfect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My ideas of imperfect things might be cobbled together from imperfect
+sources (my imagination, or even myself), but an idea of absolute
+perfection cannot.  It needs a perfect source.&lt;/p&gt;
+
+&lt;p&gt;Do I have such an idea?&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Part 2: The Perfect Idea&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;How could I understand that I &amp;hellip; lacked something &amp;hellip; that I was
+not wholly perfect, unless there were in me some idea of a more
+perfect being which enabled me to recognize my own defects by
+comparison?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think what Descartes is getting at is something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I can recognize imperfections in myself.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To do that, I must have an idea of something &lt;em&gt;relatively more&lt;/em&gt;
+perfect than I am.  Call that relatively more perfect thing &amp;ldquo;Dog&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now we are faced with a question: is Dog absolutely perfect, or only
+relatively more perfect than me?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Is Dog absolutely perfect?  Then I have an idea of something
+absolutely perfect.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Is Dog &lt;em&gt;not&lt;/em&gt; absolutely perfect?  If I can determine that Dog is not
+absolutely perfect, then I must be able to recognize imperfections
+in Dog.  &lt;em&gt;To do that&lt;/em&gt;, I must have an idea of something relatively
+more perfect than Dog.  Call that relatively more perfect thing
+&amp;ldquo;Dogg&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now we are faced with the same question again.  Is Dogg absolutely
+perfect, or only relatively more perfect than Dog?&lt;/p&gt;
+
+&lt;p&gt;Descartes claims that if we keep asking ourselves this question,
+eventually we will be forced to admit that we really do have an idea
+of something absolutely perfect.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Now put this together with our No-Something-From-Nothing principle
+from above.  An idea of absolute perfection must have come from
+something absolutely perfect.  We have an idea of absolute perfection,
+which means there is something absolutely perfect.  Descartes believes
+that God is whatever is absolutely perfect, so he considers this to be
+a proof of the existence of God.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UCSB Campus Resources</title>
+      <link>http://alexdunn.info/handouts/resources</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/handouts/resources</guid>
+      <description>
+
+&lt;p&gt;College can be very stressful, especially for new and transferring students.
+Fortunately, UCSB has a number of resources to make your time here easier.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;CAPS (Counseling &amp;amp; Psychological Services)&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re dealing with depression, anxiety, or are just feeling
+overwhelmed, CAPS is available to help.  They offer individual and
+group counseling, as well as relaxation rooms and other resources to
+make the quarter more bearable.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;tel:805-893-4411&#34;&gt;tel:805-893-4411&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://counseling.sa.ucsb.edu&#34;&gt;http://counseling.sa.ucsb.edu&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;CARE (Campus Advocacy Resources &amp;amp; Education)&lt;/h3&gt;
+
+&lt;p&gt;CARE provides resources related to sexual assault, stalking, and
+intimate partner violence.  They offer free and confidential
+counseling, medical and legal assistance, and help with referrals for
+long-term support for those who need it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;tel:805-893-4613&#34;&gt;tel:805-893-4613&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wgse.sa.ucsb.edu/Care&#34;&gt;http://wgse.sa.ucsb.edu/Care&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;RCSGD (Resource Center for Sexual and Gender Diversity)&lt;/h3&gt;
+
+&lt;p&gt;The RCSGD provides resources for gender, sexual, romantic
+minorities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;lesbian&lt;/li&gt;
+&lt;li&gt;gay&lt;/li&gt;
+&lt;li&gt;bisexual&lt;/li&gt;
+&lt;li&gt;transgender&lt;/li&gt;
+&lt;li&gt;asexual&lt;/li&gt;
+&lt;li&gt;intersex&lt;/li&gt;
+&lt;li&gt;otherwise gender/sexual/romantic nonconforming individuals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They also collect reports of hate incidents and maintain a list of
+gender neutral bathrooms on campus.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;tel:805-893-5847&#34;&gt;tel:805-893-5847&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wgse.sa.ucsb.edu/sgd/&#34;&gt;http://wgse.sa.ucsb.edu/sgd/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;CLAS (Campus Learning Assistance Services)&lt;/h3&gt;
+
+&lt;p&gt;CLAS offers workshops on study skills like note-taking and time
+management; group tutorials on math, science, and economics;
+assistance with essay-writing, and other free services that will help
+you perform will in your classes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://clas.sa.ucsb.edu&#34;&gt;http://clas.sa.ucsb.edu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;DSP (Disabled Students Program)&lt;/h3&gt;
+
+&lt;p&gt;If you have any sort of disability&amp;mdash;physical or mental, permanent or
+temporary&amp;mdash;we strongly encourage you to register with DSP.  They can
+then notify your instructors if you need certain accomodations during
+classes or during tests.&lt;/p&gt;
+
+&lt;p&gt;A disability can be something like difficulty seeing or hearing;
+difficulty attending class due to physical or emotional distress;
+chronic anxiety or depression; or anything else that interferes with
+your schoolwork.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s no shame in seeking help for these sorts of things, but
+unfortunately UCSB requires that instructors receive confirmation from
+DSP before providing accomodation.  Since DSP is often busy, contact
+them as soon as possible if you need or expect to need their support.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;tel:805-893-2668&#34;&gt;tel:805-893-2668&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://dsp.sa.ucsb.edu&#34;&gt;http://dsp.sa.ucsb.edu&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
