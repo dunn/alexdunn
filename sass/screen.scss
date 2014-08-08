@@ -5,7 +5,8 @@
 // Colors
 // ==============
 // http://revoltpuppy.com/articles/40
-$dark: #313832;
+//$dark: #102c46;
+$dark: #101d46;
 $light: mix(white,#dae6e6,50%);
 $main: #5ccde4;
 $offset: #e4c75c;
@@ -13,10 +14,9 @@ $splash: #e45cb1;
 
 $background: $light;
 $text: mix($dark,$main,85%);
-$anchor: mix($dark,$offset,35%);
-$hover: mix($dark,$splash,15%);
-// $visited: mix($dark,$offset,5%);
-$inverse: mix($dark,$main,60%);
+$anchor: mix($dark,$offset,50%);
+$hover: mix($dark,$splash,35%);
+$inverse: mix($dark,$main,75%);
 
 // ==============
 // Measurements
@@ -86,7 +86,7 @@ li.after {
 
 .resources {
   a {
-    color: mix($light,$splash,30%);
+    color: mix($light,$splash,50%);
     &:hover,
     &:active {
       color: mix($dark,$offset,5%);
@@ -258,9 +258,23 @@ section.single {
   padding-bottom: 1em;
 }
 
+.assistive-text {
+	margin: auto 20%;
+	background-color: $inverse;
+	@include border-radius(1em);
+	a {
+		color: $background;
+	}
+}
+
 /* ===========================
 /* Media Queries
 /* ======================== */
+@media screen and (min-width: $break2-width) {
+	.assistive-text {
+		@include hide;
+	}
+}
 
 @media screen and (max-width: $break1-width) {
   body {

@@ -1,1 +1,5 @@
 @import "base";
+
+.assistive-text {
+	@include hide;
+}
