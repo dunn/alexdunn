@@ -259,6 +259,8 @@ section.single {
 }
 
 .assistive-text {
+	@include hide;
+	
 	margin: auto 20%;
 	background-color: $inverse;
 	@include border-radius(1em);
@@ -270,11 +272,6 @@ section.single {
 /* ===========================
 /* Media Queries
 /* ======================== */
-@media screen and (min-width: $break2-width) {
-	.assistive-text {
-		@include hide;
-	}
-}
 
 @media screen and (max-width: $break1-width) {
   body {
