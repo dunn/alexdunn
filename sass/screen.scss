@@ -181,6 +181,14 @@ hr {
 /* Classes
 /* ======================== */
 
+p.browsehappy {
+  color: $light;
+  background-color: $splash;
+  a {
+    color: $offset;
+  }
+}
+
 .page-header {
   padding-bottom: 1em;
 

@@ -138,6 +138,16 @@ and
     </item>
     
     <item>
+      <title>&lt;em&gt;Harry Potter&lt;/em&gt; and philosophy</title>
+      <link>http://alexdunn.info/projects/harrypotter</link>
+      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://alexdunn.info/projects/harrypotter</guid>
+      <description>&lt;p&gt;I wasn&amp;rsquo;t invited to contribute to the &amp;ldquo;Ultimate&amp;rdquo; &lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470398256.html&#34;&gt;&lt;em&gt;Harry Potter&lt;/em&gt; and Philosophy&lt;/a&gt; book, but I&amp;rsquo;ve written a few introductions to philosophical ideas (time travel, philosophy of names) using &lt;em&gt;Harry Potter&lt;/em&gt; as a jumping-off point. Comments are always appreciated!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Skepticism and common sense</title>
       <link>http://alexdunn.info/handouts/moore</link>
       <pubDate>Wed, 30 Apr 2014 00:00:00 UTC</pubDate>
@@ -1078,32 +1088,6 @@ them as soon as possible if you need or expect to need their support.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;Friday 3:00PM&amp;ndash;4:00PM: Caje&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&lt;em&gt;Modern Philosophy&lt;/em&gt; in plain text</title>
-      <link>http://alexdunn.info/projects/modphil</link>
-      <pubDate>Mon, 28 May 2012 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/projects/modphil</guid>
-      <description>&lt;p&gt;&lt;em&gt;Modern Philosophy&lt;/em&gt; is a free textbook created by
-&lt;a href=&#34;https://filebox.vt.edu/users/ottw/ott.htm&#34; title=&#34;Walter Ott&#39;s
-personal site&#34;&gt;Walter Ott&lt;/a&gt;. It combines public-domain primary sources with
-supplementary material and study questions. Everything not in the
-public domain is licensed under
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34; title=&#34;Creative Commons license page&#34;&gt;CC BY-NC-SA 3.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This modified version of the text is written in
-&lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34; title=&#34;Markdown
-project page&#34;&gt;Markdown&lt;/a&gt;. Markdown is a plain-text syntax that allows for easy
-conversion to other file formats.  Using
-&lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34; title=&#34;pandoc project page&#34;&gt;pandoc&lt;/a&gt;,
-&lt;em&gt;Modern Philosophy&lt;/em&gt; can be easily converted to HTML, PDF, EPUB, and
-&lt;a href=&#34;http://johnmacfarlane.net/pandoc/README.html#options&#34; title=&#34;pandoc options&#34;&gt;many other formats&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This version of &lt;em&gt;Modern Philosophy&lt;/em&gt; is kept in a
-&lt;a href=&#34;https://github.com/grumble/modernphilosophy&#34; title=&#34;GitHub repository&#34;&gt;public repository on GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
