@@ -191,6 +191,8 @@ p.browsehappy {
 
 .page-header {
   padding-bottom: 1em;
+  padding-right: 2%;
+  padding-left: 2%;
 
   border-bottom: (4*$box-border) solid $inverse;
   h1 {
@@ -268,7 +270,7 @@ section.single {
 
 .assistive-text {
 	@include hide;
-	
+
 	margin: auto 20%;
 	background-color: $inverse;
 	@include border-radius(1em);

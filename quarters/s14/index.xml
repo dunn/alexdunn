@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>S14 on Alex Dunn </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://alexdunn.info/quarters/s14/index.xml</link>
-    
-    
-    
-    <updated>Wed, 30 Apr 2014 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Skepticism and common sense</title>
-      <link>http://alexdunn.info/handouts/moore</link>
-      <pubDate>Wed, 30 Apr 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/handouts/moore</guid>
-      <description>&lt;p&gt;Last week we talked about how one person&amp;rsquo;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;rsquo;s
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>S14 on Alex Dunn </title><generator uri="https://hugo.spf13.com">Hugo</generator><link>http://alexdunn.info/quarters/s14/index.xml/</link><updated>Wed, 30 Apr 2014 00:00:00 UTC</updated><item><title>Skepticism and common sense</title><link>http://alexdunn.info/handouts/moore/</link><pubDate>Wed, 30 Apr 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/handouts/moore/</guid><description>&lt;p&gt;Last week we talked about how one person&amp;rsquo;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;rsquo;s
 &lt;em&gt;modus tollens&lt;/em&gt;.  If you&amp;rsquo;re given any argument of the form&lt;/p&gt;
 
 &lt;ol&gt;
@@ -63,16 +46,7 @@ responds with this argument:&lt;/p&gt;
 
 &lt;p&gt;Remember, both the skeptic and Moore have valid arguments.  They both
 reason correctly from their premises.  But who has better premises?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>One person&amp;#8217;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;#8217;s &lt;em&gt;modus tollens&lt;/em&gt;</title>
-      <link>http://alexdunn.info/handouts/modus</link>
-      <pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/handouts/modus</guid>
-      <description>&lt;p&gt;William Rowe pointed out that you can take his argument against the
+</description></item><item><title>One person&amp;#8217;s &lt;em&gt;modus ponens&lt;/em&gt; is another&amp;#8217;s &lt;em&gt;modus tollens&lt;/em&gt;</title><link>http://alexdunn.info/handouts/modus/</link><pubDate>Wed, 23 Apr 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/handouts/modus/</guid><description>&lt;p&gt;William Rowe pointed out that you can take his argument against the
 existence of God and basically reverse it:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -189,16 +163,7 @@ Singer thinks.&lt;/p&gt;
 
 &lt;p&gt;Now since we&amp;rsquo;re denying the conclusion of a valid argument, we have to
 deny one of the argument&amp;rsquo;s premises.  Which one might be false?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Prometheus Problem</title>
-      <link>http://alexdunn.info/handouts/prometheus</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/handouts/prometheus</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s Paley&amp;rsquo;s argument, direct from Tim&amp;rsquo;s slides:&lt;/p&gt;
+</description></item><item><title>The Prometheus Problem</title><link>http://alexdunn.info/handouts/prometheus/</link><pubDate>Wed, 09 Apr 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/handouts/prometheus/</guid><description>&lt;p&gt;Here&amp;rsquo;s Paley&amp;rsquo;s argument, direct from Tim&amp;rsquo;s slides:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Watches have complex features the best explanation of which is that
@@ -266,16 +231,7 @@ complex than the watch.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;But are either of these assumptions true?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Philosophy 1: Intro to Philosophy</title>
-      <link>http://alexdunn.info/courses/s14</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/courses/s14</guid>
-      <description>
+</description></item><item><title>Philosophy 1: Intro to Philosophy</title><link>http://alexdunn.info/courses/s14/</link><pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/courses/s14/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Handouts&lt;/h3&gt;
 
@@ -302,8 +258,4 @@ complex than the watch.&lt;/p&gt;&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Wednesday 10:00AM&amp;ndash;12:00PM: South Hall, Room 5706&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>

@@ -1,45 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Projects on Alex Dunn </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://alexdunn.info/projects/index.xml</link>
-    
-    
-    
-    <updated>Thu, 19 Jun 2014 00:00:00 UTC</updated>
-    
-    <item>
-      <title>&lt;em&gt;Harry Potter&lt;/em&gt; and philosophy</title>
-      <link>http://alexdunn.info/projects/harrypotter</link>
-      <pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/projects/harrypotter</guid>
-      <description>&lt;p&gt;I wasn&amp;rsquo;t invited to contribute to the &amp;ldquo;Ultimate&amp;rdquo; &lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470398256.html&#34;&gt;&lt;em&gt;Harry Potter&lt;/em&gt; and Philosophy&lt;/a&gt; book, but I&amp;rsquo;ve written a few introductions to philosophical ideas (time travel, philosophy of names) using &lt;em&gt;Harry Potter&lt;/em&gt; as a jumping-off point. Comments are always appreciated!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exists.js</title>
-      <link>http://alexdunn.info/projects/exists.js</link>
-      <pubDate>Fri, 28 Feb 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/projects/exists.js</guid>
-      <description>&lt;p&gt;Exists.js is a silly tool to generate symbolic representations of existence statements, such as &amp;ldquo;at least five things exist&amp;rdquo;, &amp;ldquo;exactly two things exist&amp;rdquo;, and &amp;ldquo;at most nine things exist&amp;rdquo;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Alex Dunn </title><generator uri="https://hugo.spf13.com">Hugo</generator><link>http://alexdunn.info/projects/index.xml/</link><updated>Thu, 19 Jun 2014 00:00:00 UTC</updated><item><title>&lt;em&gt;Harry Potter&lt;/em&gt; and philosophy</title><link>http://alexdunn.info/projects/harrypotter/</link><pubDate>Thu, 19 Jun 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/projects/harrypotter/</guid><description>&lt;p&gt;I wasn&amp;rsquo;t invited to contribute to the &amp;ldquo;Ultimate&amp;rdquo; &lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470398256.html&#34;&gt;&lt;em&gt;Harry Potter&lt;/em&gt; and Philosophy&lt;/a&gt; book, but I&amp;rsquo;ve written a few introductions to philosophical ideas (time travel, philosophy of names) using &lt;em&gt;Harry Potter&lt;/em&gt; as a jumping-off point. Comments are always appreciated!&lt;/p&gt;
+</description></item><item><title>Exists.js</title><link>http://alexdunn.info/projects/exists.js/</link><pubDate>Fri, 28 Feb 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/projects/exists.js/</guid><description>&lt;p&gt;Exists.js is a silly tool to generate symbolic representations of existence statements, such as &amp;ldquo;at least five things exist&amp;rdquo;, &amp;ldquo;exactly two things exist&amp;rdquo;, and &amp;ldquo;at most nine things exist&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;re a scumbag analytic philosopher like me then this might actually
 come in handy, like when your so-called &amp;ldquo;friend&amp;rdquo; suggests that chairs are
 ontologically innocent.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&lt;em&gt;Modern Philosophy&lt;/em&gt; in plain text</title>
-      <link>http://alexdunn.info/projects/modphil</link>
-      <pubDate>Mon, 28 May 2012 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/projects/modphil</guid>
-      <description>&lt;p&gt;&lt;em&gt;Modern Philosophy&lt;/em&gt; is a free textbook created by
+</description></item><item><title>&lt;em&gt;Modern Philosophy&lt;/em&gt; in plain text</title><link>http://alexdunn.info/projects/modphil/</link><pubDate>Mon, 28 May 2012 00:00:00 UTC</pubDate><guid>http://alexdunn.info/projects/modphil/</guid><description>&lt;p&gt;&lt;em&gt;Modern Philosophy&lt;/em&gt; is a free textbook created by
 &lt;a href=&#34;https://filebox.vt.edu/users/ottw/ott.htm&#34; title=&#34;Walter Ott&#39;s
 personal site&#34;&gt;Walter Ott&lt;/a&gt;. It combines public-domain primary sources with
 supplementary material and study questions. Everything not in the
@@ -53,8 +18,4 @@ conversion to other file formats.  Using
 &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34; title=&#34;pandoc project page&#34;&gt;pandoc&lt;/a&gt;,
 &lt;em&gt;Modern Philosophy&lt;/em&gt; can be easily converted to HTML, PDF, EPUB, and
 &lt;a href=&#34;http://johnmacfarlane.net/pandoc/README.html#options&#34; title=&#34;pandoc options&#34;&gt;many other formats&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>
