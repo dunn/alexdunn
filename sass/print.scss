@@ -1,5 +1,7 @@
 @import "base";
 
-.assistive-text {
+.assistive-text,
+.page-header,
+.page-footer {
 	@include hide;
 }
