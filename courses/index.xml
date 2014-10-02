@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Courses on Alex Dunn </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://alexdunn.info/courses/index.xml/</link>
-    
-    
-    
-    <updated>Thu, 02 Oct 2014 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Philosophy 20A: History of Philosophy</title>
-      <link>http://alexdunn.info/courses/f14/</link>
-      <pubDate>Thu, 02 Oct 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/courses/f14/</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses on Alex Dunn </title><generator uri="https://hugo.spf13.com">Hugo</generator><link>http://alexdunn.info/courses/index.xml/</link><updated>Thu, 02 Oct 2014 00:00:00 UTC</updated><item><title>Philosophy 20A: History of Philosophy</title><link>http://alexdunn.info/courses/f14/</link><pubDate>Thu, 02 Oct 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/courses/f14/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Sections&lt;/h3&gt;
 
@@ -31,16 +14,7 @@
 &lt;ul&gt;
 &lt;li&gt;Wednesday 12:30&amp;ndash;2:30PM: South Hall, Room 5706&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Philosophy 1: Intro to Philosophy</title>
-      <link>http://alexdunn.info/courses/s14/</link>
-      <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/courses/s14/</guid>
-      <description>
+</description></item><item><title>Philosophy 1: Intro to Philosophy</title><link>http://alexdunn.info/courses/s14/</link><pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/courses/s14/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Handouts&lt;/h3&gt;
 
@@ -67,16 +41,7 @@
 &lt;ul&gt;
 &lt;li&gt;Wednesday 10:00AM&amp;ndash;12:00PM: South Hall, Room 5706&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Philosophy 1: Intro to Philosophy</title>
-      <link>http://alexdunn.info/courses/w14/</link>
-      <pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/courses/w14/</guid>
-      <description>
+</description></item><item><title>Philosophy 1: Intro to Philosophy</title><link>http://alexdunn.info/courses/w14/</link><pubDate>Mon, 03 Mar 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/courses/w14/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Handouts&lt;/h3&gt;
 
@@ -105,16 +70,7 @@
 &lt;ul&gt;
 &lt;li&gt;Thursday 11:30AM–1:30PM in South Hall 5706&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Philosophy 4: Intro to Ethics</title>
-      <link>http://alexdunn.info/courses/f13/</link>
-      <pubDate>Mon, 30 Sep 2013 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/courses/f13/</guid>
-      <description>
+</description></item><item><title>Philosophy 4: Intro to Ethics</title><link>http://alexdunn.info/courses/f13/</link><pubDate>Mon, 30 Sep 2013 00:00:00 UTC</pubDate><guid>http://alexdunn.info/courses/f13/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Sections&lt;/h3&gt;
 
@@ -131,8 +87,4 @@
 
 &lt;li&gt;&lt;p&gt;Friday 3:00PM&amp;ndash;4:00PM: Caje&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>

@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Cvs on Alex Dunn </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://alexdunn.info/cv/index.xml/</link>
-    
-    
-    
-    <updated>Tue, 05 Aug 2014 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>http://alexdunn.info/cv/cv/</link>
-      <pubDate>Tue, 05 Aug 2014 00:00:00 UTC</pubDate>
-      
-      <guid>http://alexdunn.info/cv/cv/</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cvs on Alex Dunn </title><generator uri="https://hugo.spf13.com">Hugo</generator><link>http://alexdunn.info/cv/index.xml/</link><updated>Tue, 05 Aug 2014 00:00:00 UTC</updated><item><title>Curriculum Vitae</title><link>http://alexdunn.info/cv/cv/</link><pubDate>Tue, 05 Aug 2014 00:00:00 UTC</pubDate><guid>http://alexdunn.info/cv/cv/</guid><description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Contact&lt;/h3&gt;
 
@@ -134,8 +117,4 @@ and
 &lt;ul&gt;
 &lt;li&gt;David D. Stalker Memorial Scholarship (SB Scholarship Foundation)&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>
