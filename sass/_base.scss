@@ -1,9 +1,6 @@
-@charset "UTF-8";
 @import "compass";
-@import "normalize";
-@import url(http://fonts.googleapis.com/css?family=Averia+Serif+Libre:400,700,400italic,700italic);
-// @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic);
 
+/* variables and mixins */
 @mixin hide {
   position: absolute;
   left: -999em;
@@ -12,23 +9,12 @@
   top: -999px;
 }
 
+// _normalize.scss
+@import "normalize";
+
+/////// stuff for print and screen
 /* apply a natural box layout model to all elements */
 // http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 *, *:before, *:after {
   -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
- }
-
-body {
-  font-family: "Averia Serif Libre", Georgia, serif;
-}
-
-blockquote,
-footer {
-  font-style: italic;
-}
-
-blockquote {
-  em {
-    font-style: normal;
-  }
 }
