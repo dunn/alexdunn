@@ -1,0 +1,20 @@
+@import "compass";
+
+/* variables and mixins */
+@mixin hide {
+  position: absolute;
+  left: -999em;
+  /* apparently this second push is for old Opera:
+  /* http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/ */
+  top: -999px;
+}
+
+// _normalize.scss
+@import "normalize";
+
+/////// stuff for print and screen
+/* apply a natural box layout model to all elements */
+// http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}

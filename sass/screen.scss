@@ -1,0 +1,315 @@
+@charset "UTF-8";
+@import "base";
+
+// ==============
+// DIMENSIONS
+// ==============
+$wide: 10%;
+$wide-stance: 80%;
+$narrow: 5%;
+$tiny: 2%;
+
+$box-border: .2em;
+$default-corner: .25em;
+
+$break1: 900px;
+$break2: 500px;
+
+///////// colors /////
+// SOLARIZED COLORS
+// Copyright (c) 2011 Ethan Schoonover */
+// Released under the MIT license and available at */
+// http://ethanschoonover.com/solarized */
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #cb4b16;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+
+@import "highlighting";
+
+/////////////////////// DECORATIONS ////////////////////////
+html {
+  background: $base3;
+  // http://css-tricks.com/css3-gradients/
+  // http://compass-style.org/examples/compass/css3/gradient/
+  // https://github.com/chriseppstein/compass/issues/401
+  @include background-image(repeating-linear-gradient(45deg, $base3, $base3 150px, $base03 150px, $base03 300px));
+}
+
+body {
+  font-family: "alber-new-web";
+  color: $base3;
+}
+
+blockquote {
+  font-style: italic;
+  em {
+    font-style: normal;
+  }
+}
+
+img {
+  border: $box-border solid $base3;
+}
+
+hr {
+  background-color: $base3;
+  color: $base3;
+}
+
+a {
+  color: $base3;
+  text-decoration: none;
+  border-bottom: .125em dotted;
+}
+
+.page-header,
+.page-footer,
+.sub-footer {
+  background-color: $base03;
+}
+
+p.browsehappy {
+  text-align: center;
+  color: $red;
+  background-color: $base3;
+  a {
+    color: $cyan;
+  }
+}
+
+.slogan,
+dt,
+footer {
+  font-style: italic;
+}
+
+.slogan {
+  em {
+    font-style: normal;
+  }
+}
+
+///// Types
+.about,
+.err404 {
+  border-color: $red;
+  background-color: $red;
+  a {
+    border-bottom-color: $blue;
+  }
+}
+.projects {
+  border-color: $magenta;
+  background-color: $magenta;
+  a {
+    border-bottom-color: $cyan;
+  }
+}
+.stories {
+  border-color: $orange;
+  background-color: $orange;
+  a {
+    border-bottom-color: $violet;
+  }
+}
+.things {
+  border-color: $violet;
+  background-color: $violet;
+  a {
+    border-bottom-color: $orange;
+  }
+}
+.websites {
+  border-color: $blue;
+  background-color: $blue;
+  a {
+    border-bottom-color: $red;
+  }
+}
+.posts {
+  border-color: $cyan;
+  background-color: $cyan;
+  a {
+    border-bottom-color: $magenta;
+  }
+}
+a:hover {
+  background-color: $base03;
+  border-bottom-color: $base3;
+}
+a.reverse:hover {
+  background-color: $base3;
+  border-bottom-color: $base03;
+  color: $base03;
+}
+
+//////////////////////////////////////////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////////////////////////////////////////
+
+body {
+  font-size: 16pt;
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+article {
+	text-align: left;
+	border: .25em solid;
+	padding-left: 3%;
+	padding-right: 3%;
+	float: left;
+	width: 50%;
+}
+
+section {
+	text-align: left;
+	border: .25em solid;
+	margin-left: 17%;
+	margin-right: 17%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.page-header,
+.page-footer {
+    clear: both;
+    text-align: center;
+}
+
+.page-header h1 {
+  font-style: italic;
+  padding: .5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 100%;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 225%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+h4 {
+  font-size: 131.25%;
+}
+
+h5,
+h6 {
+  font-size: 112.5%;
+}
+
+/* http://unstoppablerobotninja.com/entry/fluid-images/ */
+// /* needs width: 100% in IE stylesheet */
+img,
+object,
+iframe {
+  max-width: 100%;
+}
+img {
+  margin: .5em 0 .5em 0;
+  height: auto;
+  @media screen and (max-width: $break2) {
+    float: none;
+  }
+}
+
+hr {
+  height: .125em;
+  width: 50%;
+  border: 0;
+}
+
+.assistive-text {
+	@include hide;
+}
+//////////////////////// media queries ..................///////////////
+@media screen and (max-width: $break1) {
+  article {
+    float: none;
+    width: 100%;
+    margin: 0;
+  }
+  section {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 225%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 131.25%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 112.5%;
+  }
+}
+
+@media screen and (max-width: $break2) {
+  body {
+    font-size: 14pt;
+  }
+  blockquote {
+    margin: 0 1em;
+  }
+  section {
+	margin: 0;
+    width: 100%;
+  }
+  h1 {
+    font-size: 171.5%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 128.5%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 114.3%;
+  }
+}
